@@ -12,7 +12,11 @@
 一个基于 Vue 3 + Vite + Three.js 的产业情报可视化项目，整体是一个 SPA，包含两个核心视图：
 
 - **主视图：3D 地图指挥屏** —— 沉浸式 3D 中国地图，集成省/市下钻、节点详情、ECharts 图表与情报面板。
+- <img width="1400" height="823" alt="df12bc12-a92d-43c1-9e35-aacfd8118ae3" src="https://github.com/user-attachments/assets/2999230b-22c0-41dd-8813-6a4d947f38d8" />
+
 - **副视图：Industry Chain 产业链场景** —— 6 个漂浮产业扇区，点击任一扇区触发产业链生长动画（主链 + 分支节点）。
+- <img width="1620" height="839" alt="3ed8de66-7547-48ee-b841-a96b17e4a075" src="https://github.com/user-attachments/assets/9c10b16b-db11-4ccb-b2ea-dbc76e3e6cae" />
+
 
 ---
 
